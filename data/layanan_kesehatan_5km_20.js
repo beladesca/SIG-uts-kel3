@@ -1,0 +1,1 @@
+var json_layanan_kesehatan_5km_20 = {"type":"FeatureCollection","name":"layanan_kesehatan_5km_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
